@@ -1,0 +1,42 @@
+# dependencies
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# uploads
+uploads/
+server/uploads/
+client/uploads/
+
+# environment
+.env
+.env.*
+
+# build
+dist/
+build/
+.vite/
+client/dist/
+server/dist/
+
+# logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# editor
+.vscode/
+.idea/
+
+# temp
+.cache/
+coverage/
+
+# media
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
